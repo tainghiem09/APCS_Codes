@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Die
+comment1.params=
+comment1.target=Die()
+comment1.text=\r\n\ \ \ \ \ Defaults\ to\ a\ six-sided\ die.\ Initial\ face\ value\ is\ 1.\r\n
+comment2.params=faces
+comment2.target=Die(int)
+comment2.text=\r\n\ \ \ \ \ \ \ \ constructor\r\n\ \ \ \ \ Explicitly\ sets\ the\ size\ of\ the\ die.\ Defaults\ to\ a\ size\ of\r\n\ \ \ \ \ six\ if\ the\ parameter\ is\ invalid\ <\ MIN_FACES.\r\n\ \ \ \ \ Initial\ face\ value\ is\ random.\r\n\ \ \ \ \ @parm\ int\ number\ of\ sides\ of\ the\ die\r\n
+comment3.params=
+comment3.target=int\ roll()
+comment3.text=\r\n\ \ \ \ \ \ \ \ \ \ \ Rolls\ the\ die\ and\ returns\ the\ result.\r\n\ \ \ \ \ \ \ \ \ \ \ @return\ random\ roll\r\n
+comment4.params=
+comment4.target=int\ getFaceValue()
+comment4.text=\r\n\ \ \ \ \ \ \ \ \ \ \ Returns\ the\ current\ die\ value.\r\n\ \ \ \ \ \ \ \ \ \ \ @return\ current\ face\ value\ of\ die\r\n
+comment5.params=
+comment5.target=int\ getNumFaces()
+comment5.text=\r\n\ \ \ \ \ \ \ \ Returns\ the\ current\ number\ of\ faces\ the\ die\ has.\r\n\ \ \ \ \ \ \ \ @return\ current\ number\ of\ faces\ of\ die\r\n
+comment6.params=faces
+comment6.target=void\ setFaces(int)
+comment6.text=\r\n\ \ \ \ \ \ \ \ \ \ Sets\ the\ number\ of\ faces\ of\ the\ Die\r\n\ \ \ \ \ \ \ \ \ \ @param\ int\ number\ of\ faces\ for\ die\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ \ \ \ \ \ \ \ \ \ \ Returns\ the\ current\ die\ value\ and\ number\ of\ sides\ as\ a\ String.\r\n\ \ \ \ \ \ \ \ \ \ \ @return\ the\ current\ die\ value\ and\ number\ of\ sides\r\n
+numComments=8

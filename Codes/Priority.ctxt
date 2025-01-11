@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Priority
+comment0.text=\r\n\ @Tai\ Nghiem\r\n\ January\ 10,\ 2025\r\n\ created\ an\ interface\ of\ methods\ for\ Priority_Test\ and\ Task\r\n
+comment1.params=p
+comment1.target=double\ getPriority(double)
+comment2.params=p
+comment2.target=void\ setPriority(double)
+numComments=3

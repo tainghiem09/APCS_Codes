@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=streetAddress\ city\ state\ zipCode
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ constructor\ for\ the\ Address\ object\r\n\ @param\ String\ streetAddress,\ String\ city,\ String\ state,\ int\ zipCode\r\n
+comment2.params=obj
+comment2.target=int\ compareTo(java.lang.Object)
+comment2.text=\r\n\ The\ comparable\ interface\ is\ used\ to\ compare\ the\ street\ names/numbers.\r\n\ @param\ Object\ obj\r\n
+comment3.params=password\ setstate
+comment3.target=void\ setState(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Static\ method\ to\ set\ state\ with\ password.\r\n\ @param\ String\ password,\ String\ st\r\n
+comment4.params=obj
+comment4.target=void\ setAddress(Address)
+comment4.text=\r\n\ This\ sets\ an\ address\ given\ an\ object.\r\n\ @param\ Address\ obj\r\n
+comment5.params=street\ city\ zip
+comment5.target=void\ setAddress(java.lang.String,\ java.lang.String,\ int)
+comment5.text=\r\n\ This\ sets\ an\ Address\ given\ street,\ city,\ and\ zip\ code.\r\n\ @param\ String\ street,\ String\ city,\ int\ zip\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ method\ to\ print\ out\ the\ address\r\n\ @return\ result\r\n
+numComments=7
