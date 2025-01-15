@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Register
+comment1.params=n\ p\ lbs
+comment1.target=Register(java.lang.String,\ int,\ double)
+comment10.params=
+comment10.target=boolean\ locked()
+comment11.params=pass
+comment11.target=void\ setkey(int)
+comment2.params=
+comment2.target=int\ getPieces()
+comment3.params=pieces
+comment3.target=void\ setPieces(int)
+comment4.params=
+comment4.target=double\ getPounds()
+comment5.params=pounds
+comment5.target=void\ setPounds(double)
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=totalSales\ totalSalesPounds\ totalSalesPieces\ totalPieces\ totalPounds
+comment7.target=java.lang.String\ toString(double,\ double,\ double,\ int,\ double)
+comment8.params=locker
+comment8.target=void\ lock(int)
+comment8.text=\r\n\ lockable\ interface\ methods\r\n
+comment9.params=unlocker
+comment9.target=void\ unlock(int)
+numComments=12
