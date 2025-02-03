@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Building
+comment1.params=rock
+comment1.target=Building(FloatingRock)
+comment1.text=\r\n\ @param\ FloatingRock\ rock\r\n\ \r\n\ builds\ the\ building\ atop\ the\ rock\ (based\ on\ rock's\ position)\r\n
+comment2.params=
+comment2.target=void\ initializeWindows()
+comment2.text=\r\n\ initializes\ windows\ one\ time\ with\ extra\ padding\ in\ betwen\r\n\ and\ also\ makes\ sure\ that\ the\ windows\ fit\ within\ the\ building's\ parameters\r\n
+comment3.params=
+comment3.target=void\ stopAnimation()
+comment4.params=
+comment4.target=int\ getYOffset()
+comment5.params=
+comment5.target=void\ updatePosition()
+comment5.text=\r\n\ updates\ the\ window's\ positions\ based\ on\ the\ building's\ positions\r\n\ effectively\ oscillates\ them\ "together"\ so\ that\ movement\ looks\ continuous\r\n
+comment6.params=
+comment6.target=void\ updateFlashProgress()
+comment6.text=\r\n\ updates\ the\ windows\ to\ flash\r\n\ based\ on\ the\ day/night\ cycle\ (only\ flash\ during\ night)\r\n
+comment7.params=page\ dayProgress
+comment7.target=void\ draw(java.awt.Graphics2D,\ float)
+comment7.text=\r\n\ @param\ Graphics2D\ page,\ float\ dayProgress\r\n\ \r\n\ draws\ the\ buildings\ and\ windows\r\n\ and\ adds\ the\ flashing\ aspect\ if\ necessary\r\n
+comment8.params=
+comment8.target=void\ run()
+numComments=9

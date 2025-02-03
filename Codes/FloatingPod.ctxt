@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=FloatingPod
+comment1.params=startX\ startY\ endX\ endY
+comment1.target=FloatingPod(int,\ int,\ int,\ int)
+comment1.text=\r\n\ @param\ int\ startX,\ int\ startY,\ int\ endX,\ int\ endY\r\n\ \r\n\ constructor\ to\ create\ floating\ pod\r\n
+comment2.params=
+comment2.target=void\ stopAnimation()
+comment3.params=
+comment3.target=void\ updatePosition()
+comment3.text=\r\n\ updates\ the\ position\ of\ the\ floating\ pod\ to\ either\ move\ forward\ across\ the\ road\ or\ backwards\r\n
+comment4.params=g
+comment4.target=void\ drawPodBody(java.awt.Graphics2D)
+comment4.text=\r\n\ @param\ Graphics2D\ g\r\n\ \r\n\ method\ for\ drawing\ the\ body\ of\ the\ pod\r\n
+comment5.params=g
+comment5.target=void\ drawPodDetails(java.awt.Graphics2D)
+comment5.text=\r\n\ @param\ Graphics2D\ g\r\n\ \r\n\ method\ for\ drawing\ other\ details\ of\ the\ pod\ (such\ as\ buttons,\ lights)\r\n\ to\ make\ the\ pod\ seem\ more\ realistic\r\n
+comment6.params=g
+comment6.target=void\ drawShadows(java.awt.Graphics2D)
+comment6.text=\r\n\ below\ are\ all\ methods\ that\ take\ @param\ Graphics2D\ g\r\n\ and\ add\ more\ details\ to\ make\ the\ pod\ seem\ realistic\r\n\ \r\n
+comment7.params=g
+comment7.target=void\ drawDetails(java.awt.Graphics2D)
+comment8.params=g
+comment8.target=void\ draw(java.awt.Graphics2D)
+comment8.text=\r\n\ @param\ Graphics2D\ g\r\n\ draws\ the\ pod\r\n
+comment9.params=
+comment9.target=void\ run()
+numComments=10

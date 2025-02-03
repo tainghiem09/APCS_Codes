@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DayNightCycle
+comment1.params=
+comment1.target=float\ getDayProgress()
+comment2.params=
+comment2.target=void\ updateDayProgress()
+comment2.text=\r\n\ updates\ the\ day's\ progress\ as\ time\ goes\ on\ until\ the\ next\ day\ occurs,\ then\ resets\ and\ continues\ in\ a\ loop\r\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Window
+comment1.params=x\ y\ width\ height\ building
+comment1.target=Window(int,\ int,\ int,\ int,\ Building)
+comment1.text=\r\n\ @param\ int\ x,\ int\ y,\ int\ width,\ int\ height,\ Building\ building\r\n\ \r\n\ intializes\ window's\ position\ relative\ to\ building,\ \r\n\ using\ dimensions\ and\ building's\ coordinates\ to\ calculate\ window\ position,\r\n\ and\ sets\ window\ color.\r\n
+comment2.params=
+comment2.target=int\ getOriginalYOffset()
+comment3.params=x\ newY
+comment3.target=void\ updatePosition(int,\ int)
+comment3.text=\r\n\ @param\ int\ x,\ int\ new\ Y\r\n\ \r\n\ window's\ position\ able\ to\ fit\ within\ new\ coordinates\ and\ fit\ within\ building\r\n
+comment4.params=page
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment4.text=\r\n\ @param\ Graphics2D\ page\r\n\ \r\n\ fills\ rectangles\ (windows)\r\n
+comment5.params=progress
+comment5.target=void\ updateFlash(double)
+comment5.text=\r\n\ @param\ double\ progress\r\n\ \r\n\ flash\ effect\ uses\ a\ sine\ wave\ function\ to\ oscillate\ the\ window's\ brightness\ between\ light\ and\ dark\r\n\ allowing\ for\ a\ smoother\ shift\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sky
+comment1.params=
+comment1.target=Sky()
+comment1.text=\r\n\ constructor\ for\ sky\ that\ also\ has\ clouds\ and\ stars\r\n
+comment2.params=
+comment2.target=void\ initializeClouds()
+comment3.params=
+comment3.target=void\ initializeStars()
+comment4.params=g\ width\ height\ dayProgress
+comment4.target=void\ draw(java.awt.Graphics2D,\ int,\ int,\ float)
+comment4.text=\r\n\ @param\ Graphics2D\ g,\ int\ width,\ int\ height,\ float\ dayProgress\r\n\ \r\n\ draws\ the\ sky\ with\ updated\ sun\ and\ moon\ positions\ based\ on\ the\ progress\ of\ the\ day\r\n\ (whether\ it\ is\ nearing\ night\ or\ etc)\ and\ also\ allows\ the\ clouds\ to\ move\ and\ stars\r\n\ to\ "twinkle"\ for\ added\ realism\r\n
+comment5.params=dayProgress
+comment5.target=void\ updateSunMoonPositions(float)
+comment5.text=\r\n\ @param\ float\ dayProgress\r\n\ \r\n\ based\ on\ the\ day's\ progress,\ the\ sun\ and\ moon\ positions\ are\ updated\r\n
+comment6.params=progress
+comment6.target=java.awt.Color\ calculateSkyColor(float)
+comment6.text=\r\n\ @param\ float\ progress\r\n\ \r\n\ based\ on\ the\ progress\ of\ the\ day/night\ cycle\ (0\ -\ 0.5\ being\ day,\ 0.5\ -\ 1.0\ being\ night)\r\n\ the\ sky's\ gradient\ will\ change\ in\ accordance\r\n
+numComments=7

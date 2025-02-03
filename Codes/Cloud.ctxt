@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cloud
+comment1.params=x\ y
+comment1.target=Cloud(int,\ int)
+comment1.text=\r\n\ @param\ int\ x,\ int\ y\r\n\ \r\n\ Constructor\ for\ Cloud\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ moves\ the\ clouds\ across\ the\ screen\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

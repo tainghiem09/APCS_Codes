@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Star
+comment1.params=x\ y
+comment1.target=Star(int,\ int)
+comment1.text=\r\n\ @param\ int\ x,\ int\ y\r\n\ \r\n\ constructor\ for\ Stars\r\n
+comment2.params=x\ y
+comment2.target=void\ setXandY(int,\ int)
+comment3.params=
+comment3.target=void\ twinkle()
+comment3.text=\r\n\ sets\ stars\ to\ "twinkle"\ with\ various\ opacities\ for\ added\ realism\r\n
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

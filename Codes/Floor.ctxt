@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Floor
+comment1.params=screenWidth\ screenHeight
+comment1.target=Floor(int,\ int)
+comment1.text=\r\n\ @param\ int\ screenWidth,\ int\ screenHeight\r\n\ \r\n\ constructor\ for\ Floor\r\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\r\n\ draws\ the\ ground\ and\ also\ uses\ for\ loops\r\n\ to\ create\ and\ simulate\ a\ simplified\ "growth"\ animation\r\n\ without\ implementing\ or\ using\ Runnable\ methods\r\n
+numComments=3
